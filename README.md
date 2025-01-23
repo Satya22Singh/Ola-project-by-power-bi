@@ -1,1 +1,1 @@
-# Ola-project-by-power-bi
+# Ola-project-by-power-bi,SQL and Excel : Utilized Excel to extract, clean, and analyze data to answer business queries by SQL and then Designed and developed an interactive dashboard using Power BI to visualize insights.
